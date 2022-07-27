@@ -1,3 +1,4 @@
 # PanelerButler_StaticPage
 
-build 以下をアップする。
+* 404.htmlはindex.htmlをコピーする。
+* build 以下をアップする。
