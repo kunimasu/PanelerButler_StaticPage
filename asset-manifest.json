@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/paneler-butler/static/css/main.f08c5569.css",
-    "main.js": "/paneler-butler/static/js/main.4bd15593.js",
+    "main.css": "/paneler-butler/static/css/main.89d38708.css",
+    "main.js": "/paneler-butler/static/js/main.5e41ab4d.js",
     "static/js/787.ca1d95b1.chunk.js": "/paneler-butler/static/js/787.ca1d95b1.chunk.js",
     "static/media/bg_main.png": "/paneler-butler/static/media/bg_main.f436c457294dbf71131d.png",
     "static/media/bg_all_time.svg": "/paneler-butler/static/media/bg_all_time.503dcd02f8dceb1ebb5e.svg",
@@ -10,12 +10,12 @@
     "static/media/bg_player-time03.svg": "/paneler-butler/static/media/bg_player-time03.6205a00531bf501ec971.svg",
     "static/media/bg_player-time01.svg": "/paneler-butler/static/media/bg_player-time01.a55e3562b8bc49f96804.svg",
     "index.html": "/paneler-butler/index.html",
-    "main.f08c5569.css.map": "/paneler-butler/static/css/main.f08c5569.css.map",
-    "main.4bd15593.js.map": "/paneler-butler/static/js/main.4bd15593.js.map",
+    "main.89d38708.css.map": "/paneler-butler/static/css/main.89d38708.css.map",
+    "main.5e41ab4d.js.map": "/paneler-butler/static/js/main.5e41ab4d.js.map",
     "787.ca1d95b1.chunk.js.map": "/paneler-butler/static/js/787.ca1d95b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f08c5569.css",
-    "static/js/main.4bd15593.js"
+    "static/css/main.89d38708.css",
+    "static/js/main.5e41ab4d.js"
   ]
 }
