@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paneler-butler/static/css/main.3bb63ec2.css",
-    "main.js": "/paneler-butler/static/js/main.61b5b414.js",
+    "main.js": "/paneler-butler/static/js/main.08829fe7.js",
     "static/js/787.ca1d95b1.chunk.js": "/paneler-butler/static/js/787.ca1d95b1.chunk.js",
     "static/media/bg_main.png": "/paneler-butler/static/media/bg_main.f436c457294dbf71131d.png",
     "static/media/bg_all_time.svg": "/paneler-butler/static/media/bg_all_time.503dcd02f8dceb1ebb5e.svg",
@@ -11,11 +11,11 @@
     "static/media/bg_player-time01.svg": "/paneler-butler/static/media/bg_player-time01.a55e3562b8bc49f96804.svg",
     "index.html": "/paneler-butler/index.html",
     "main.3bb63ec2.css.map": "/paneler-butler/static/css/main.3bb63ec2.css.map",
-    "main.61b5b414.js.map": "/paneler-butler/static/js/main.61b5b414.js.map",
+    "main.08829fe7.js.map": "/paneler-butler/static/js/main.08829fe7.js.map",
     "787.ca1d95b1.chunk.js.map": "/paneler-butler/static/js/787.ca1d95b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bb63ec2.css",
-    "static/js/main.61b5b414.js"
+    "static/js/main.08829fe7.js"
   ]
 }
